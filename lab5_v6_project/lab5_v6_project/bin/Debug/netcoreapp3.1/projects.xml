@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects>
+  <project>
+    <code>18454</code>
+    <name>KPI</name>
+    <price>19000000</price>
+    <start>09.05.1940</start>
+    <end>14.05.2020</end>
+    <participants>
+      <participant>
+        <personName>Marry</personName>
+        <position>student</position>
+      </participant>
+      <participant>
+        <personName>Dima</personName>
+        <position>student</position>
+      </participant>
+    </participants>
+  </project>
+</projects>

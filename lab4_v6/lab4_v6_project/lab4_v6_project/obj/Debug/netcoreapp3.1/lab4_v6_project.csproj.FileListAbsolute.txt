@@ -1,0 +1,26 @@
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.exe
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.deps.json
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.runtimeconfig.json
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.runtimeconfig.dev.json
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.dll
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.pdb
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.csprojAssemblyReference.cache
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.csproj.CoreCompileInputs.cache
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.AssemblyInfoInputs.cache
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.AssemblyInfo.cs
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.dll
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.pdb
+E:\2 курс\C#\Нова папка\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.genruntimeconfig.cache
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.exe
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.deps.json
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.runtimeconfig.json
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.runtimeconfig.dev.json
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.dll
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\bin\Debug\netcoreapp3.1\lab4_v6_project.pdb
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.csprojAssemblyReference.cache
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.csproj.CoreCompileInputs.cache
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.AssemblyInfoInputs.cache
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.AssemblyInfo.cs
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.dll
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.pdb
+E:\2 курс\C#\lab4_v6\lab4_v6_project\lab4_v6_project\obj\Debug\netcoreapp3.1\lab4_v6_project.genruntimeconfig.cache

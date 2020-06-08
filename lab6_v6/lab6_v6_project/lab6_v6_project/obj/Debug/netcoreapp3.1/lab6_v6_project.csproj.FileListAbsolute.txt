@@ -1,0 +1,4 @@
+E:\2 курс\C#\lab6_v6\lab6_v6_project\lab6_v6_project\obj\Debug\netcoreapp3.1\lab6_v6_project.csprojAssemblyReference.cache
+E:\2 курс\C#\lab6_v6\lab6_v6_project\lab6_v6_project\obj\Debug\netcoreapp3.1\lab6_v6_project.csproj.CoreCompileInputs.cache
+E:\2 курс\C#\lab6_v6\lab6_v6_project\lab6_v6_project\obj\Debug\netcoreapp3.1\lab6_v6_project.AssemblyInfoInputs.cache
+E:\2 курс\C#\lab6_v6\lab6_v6_project\lab6_v6_project\obj\Debug\netcoreapp3.1\lab6_v6_project.AssemblyInfo.cs
