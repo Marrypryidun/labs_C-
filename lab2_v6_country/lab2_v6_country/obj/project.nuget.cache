@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYWB4MFpvLWPbyQi5nyN5EiZk5cy6W/bRWq/NHxND80Ai2ItBz00JnZ4rOZ2fxNmEvp0d8wYNv2CaiXboCH8fw==",
+  "success": true,
+  "projectFilePath": "E:\\2 курс\\C#\\lab2_v6_country\\lab2_v6_country\\lab2_v6_country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

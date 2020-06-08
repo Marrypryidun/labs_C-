@@ -1,0 +1,11 @@
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.exe
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.deps.json
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.runtimeconfig.json
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.runtimeconfig.dev.json
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.dll
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\bin\Debug\netcoreapp3.0\lab3_v6_game.pdb
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\obj\Debug\netcoreapp3.0\lab3_v6_game.csprojAssemblyReference.cache
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\obj\Debug\netcoreapp3.0\lab3_v6_game.AssemblyInfoInputs.cache
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\obj\Debug\netcoreapp3.0\lab3_v6_game.AssemblyInfo.cs
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\obj\Debug\netcoreapp3.0\lab3_v6_game.dll
+E:\2 курс\C#\lab3_v6_game\lab3_v6_game\obj\Debug\netcoreapp3.0\lab3_v6_game.pdb

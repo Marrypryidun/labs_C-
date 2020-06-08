@@ -1,0 +1,11 @@
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.exe
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.deps.json
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.runtimeconfig.json
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.runtimeconfig.dev.json
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.dll
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\bin\Debug\netcoreapp3.0\lab2_v6_country.pdb
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\obj\Debug\netcoreapp3.0\lab2_v6_country.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\obj\Debug\netcoreapp3.0\lab2_v6_country.AssemblyInfo.cs
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\obj\Debug\netcoreapp3.0\lab2_v6_country.dll
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\obj\Debug\netcoreapp3.0\lab2_v6_country.pdb
+C:\Users\Maria\source\repos\lab2_v6_country\lab2_v6_country\obj\Debug\netcoreapp3.0\lab2_v6_country.csprojAssemblyReference.cache

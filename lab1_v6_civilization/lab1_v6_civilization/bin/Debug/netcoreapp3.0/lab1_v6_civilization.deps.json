@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "lab1_v6_civilization/1.0.0": {
+        "runtime": {
+          "lab1_v6_civilization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab1_v6_civilization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

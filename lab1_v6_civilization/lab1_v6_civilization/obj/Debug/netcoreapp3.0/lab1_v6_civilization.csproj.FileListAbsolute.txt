@@ -1,0 +1,11 @@
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.exe
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.deps.json
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.runtimeconfig.json
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.runtimeconfig.dev.json
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.dll
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\bin\Debug\netcoreapp3.0\lab1_v6_civilization.pdb
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\obj\Debug\netcoreapp3.0\lab1_v6_civilization.csprojAssemblyReference.cache
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\obj\Debug\netcoreapp3.0\lab1_v6_civilization.AssemblyInfoInputs.cache
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\obj\Debug\netcoreapp3.0\lab1_v6_civilization.AssemblyInfo.cs
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\obj\Debug\netcoreapp3.0\lab1_v6_civilization.dll
+E:\2 курс\C#\lab1_v6_civilization\lab1_v6_civilization\obj\Debug\netcoreapp3.0\lab1_v6_civilization.pdb
